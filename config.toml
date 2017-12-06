@@ -1,0 +1,107 @@
+baseurl = "/"
+languageCode = "es-co"
+title = "Red Colombiana de Fototrampeo"
+theme = "hugo-creative-theme"
+googleAnalytics = ""
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more information take a look at the README.
+
+	# To provide some metadata for search engines feel free to add some
+	# information about you and your website.
+	name = "Diego J. Lizcano"
+	description = "Red Colombiana de Fototrampeo, camera trap, trampa camara"
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "Red Colombiana de Fototrampeo"
+
+		[params.navigation.links]
+			about     = "La Red"
+			services  = "Servicios"
+			portfolio = "Portfolio"
+			contact   = "Contacto"
+
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "Red Colombiana de Fototrampeo"
+		subtitle   = "Una herramienta para conectar a quienes muestrean vertebrados terrestres en Colombia. Una iniciativa [IAvH](http://reporte.humboldt.org.co/biodiversidad/2016/cap1/104/)"
+		buttonText = "Encuentra mas detalles"
+
+
+	# About section
+	[params.about]
+		headline    = "Que hace la red?"
+		description = "En Colombia son varias las instituciones que usan esta herramienta de muestreo, sin embargo, hasta ahora no se contaba con una articulación formal ni un análisis preliminar de la información. Este es el resultado de la consolidación de información en la que participaron 20 instituciones y 45 investigadores. Los retos para el fototrampeo en Colombia están centrados en aumentar la cobertura geográfica y taxonómica, homogenizar y proponer nuevos diseños de muestreo y análisis, reducir los tiempos en el procesamiento de datos y buscar los mecanismos para incidir de manera efectiva en los tomadores de decisiones, quienes requieren de información útil y especializada para el diseño de estrategias de conservación y manejo."
+	#	buttonText  = "Get started!"
+
+
+	# Service section
+	[params.services]
+		headline = "Que beneficios presta la red?"
+
+        [[params.services.list]]
+            icon = "fa-binoculars"
+            title = "Conocer otras iniciativas"
+            description = "Enterate del trabajo que se realiza y ayudanos a construir comunidad."
+
+        [[params.services.list]]
+			icon = "fa-bar-chart"
+			title = "Analisis conjuntos"
+			description = "Usenos como herramienta para encontrar los datos que nesecita!"
+
+		[[params.services.list]]
+            icon = "fa-newspaper-o"
+            title = "Estar actualizado"
+            description = "Nosotros brindamos informacion y proporcionamos conocimientos."
+
+        [[params.services.list]]
+            icon = "fa-database"
+            title = "Visibilizar sus datos"
+            description = "Tienes que hacer tus datos disponibles en estos dias!"
+
+
+    # Portfolio modals
+	[params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
+    # Aside section
+	[params.aside]
+		headline = "Donde hay datos y quien los tomó"
+
+		[params.aside.button]
+			text = "Ver el Mapa de proyectos"
+			link = "https://d-lizcano.carto.com/builder/45297e9a-ca19-4515-937a-c938bd145900/embed"
+
+	# Contact section
+	[params.contact]
+		headline = "Contactenos"
+		description = "Haga parte de la red. Envienos la foto del mes!"
+		phone = "123-456-6789"
+		email = "feedback@startbootstrap.com"
+
+	 # Google Maps section
+	 [params.location]
+	 	latitude  = "4.6452802"
+	 	longitude = "-74.0542595"
+	 	maps_api_key = ""
