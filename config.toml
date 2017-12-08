@@ -34,7 +34,7 @@ googleAnalytics = ""
 		[params.navigation.links]
 			about     = "La Red"
 			services  = "Servicios"
-			portfolio = "Portfolio"
+			portfolio = "Foto del Mes"
 			contact   = "Contacto"
 
 
@@ -43,7 +43,7 @@ googleAnalytics = ""
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Red Colombiana de Fototrampeo"
 		subtitle   = "Una herramienta para conectar a quienes muestrean vertebrados terrestres en Colombia. Una iniciativa [IAvH](http://reporte.humboldt.org.co/biodiversidad/2016/cap1/104/)"
-		buttonText = "Encuentra mas detalles"
+		buttonText = "Encuentra más detalles"
 
 
 	# About section
@@ -60,30 +60,30 @@ googleAnalytics = ""
         [[params.services.list]]
             icon = "fa-binoculars"
             title = "Conocer otras iniciativas"
-            description = "Enterate del trabajo que se realiza y ayudanos a construir comunidad."
+            description = "Entérate del trabajo que se realiza y ayúdanos a construir comunidad."
 
         [[params.services.list]]
 			icon = "fa-bar-chart"
-			title = "Analisis conjuntos"
-			description = "Usenos como herramienta para encontrar los datos que nesecita!"
+			title = "Análisis conjuntos"
+			description = "Úsenos como herramienta para encontrar los datos que necesita!"
 
 		[[params.services.list]]
             icon = "fa-newspaper-o"
             title = "Estar actualizado"
-            description = "Nosotros brindamos informacion y proporcionamos conocimientos."
+            description = "Nosotros brindamos información y proporcionamos conocimientos."
 
         [[params.services.list]]
             icon = "fa-database"
             title = "Visibilizar sus datos"
-            description = "Tienes que hacer tus datos disponibles en estos dias!"
+            description = "Tienes que hacer tus datos disponibles en estos días!"
 
 
     # Portfolio modals
 	[params.portfolio.modal]
-        client = "Client"
-        date = "Date"
-        category = "Category"
-        buttonText = "Close"
+        client = "Proyecto"
+        date = "Fecha"
+        category = "Genero"
+        buttonText = "Cerrar"
 
     # Aside section
 	[params.aside]
@@ -96,12 +96,12 @@ googleAnalytics = ""
 	# Contact section
 	[params.contact]
 		headline = "Contactenos"
-		description = "Haga parte de la red. Envienos la foto del mes!"
+		description = "Haga parte de la red. Envíenos la foto del mes!"
 		phone = "123-456-6789"
 		email = "feedback@startbootstrap.com"
 
 	 # Google Maps section
 	 [params.location]
-	 	latitude  = "4.6452802"
-	 	longitude = "-74.0542595"
+	 	latitude  = "4.5968036"
+	 	longitude = "-74.0632081"
 	 	maps_api_key = ""
