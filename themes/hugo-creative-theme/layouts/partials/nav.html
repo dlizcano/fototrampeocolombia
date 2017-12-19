@@ -31,6 +31,11 @@
                         <a class="page-scroll" href="#portfolio">{{ .Site.Params.navigation.links.portfolio }}</a>
                     </li>
                 {{ end }}
+                {{ if and .Site.Params.aside .Site.Params.navigation.links.aside }}
+                    <li>
+                        <a class="page-scroll" href="#aside">{{ .Site.Params.navigation.links.aside }}</a>
+                    </li>
+                {{ end }}
                 {{ if and .Site.Params.location .Site.Params.navigation.links.location }}
                 <li>
                     <a class="page-scroll" href="#location">{{ .Site.Params.navigation.links.location }}</a>

@@ -36,6 +36,7 @@ googleAnalytics = ""
 			services  = "Servicios"
 			portfolio = "Foto del Mes"
 			contact   = "Contacto"
+			aside     = "Mapa"
 
 
 	# Hero section
@@ -91,14 +92,15 @@ googleAnalytics = ""
 
 		[params.aside.button]
 			text = "Ver el Mapa de proyectos"
-			link = "https://d-lizcano.carto.com/builder/45297e9a-ca19-4515-937a-c938bd145900/embed"
+			link = "https://d-lizcano.carto.com/builder/f931a97d-56f7-408a-a604-3944810afb45/embed"
 
 	# Contact section
 	[params.contact]
 		headline = "Contactenos"
-		description = "Haga parte de la red. Envíenos la foto del mes!"
-		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
+		description = "Haga parte de la red. Haga visibles sus localidades de muestreo. Envíenos la foto del mes!"
+		# phone = "123-456-6789"
+		email = "Angelica Diaz <adiaz@humboldt.org.co>; Diego J. Lizcano <diego.lizcano@tnc.org>"
+		
 
 	 # Google Maps section
 	 [params.location]
