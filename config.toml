@@ -49,14 +49,14 @@ googleAnalytics = ""
 
 	# About section
 	[params.about]
-		headline    = "Que hace la red?"
+		headline    = "Qué hace la red?"
 		description = "En Colombia son varias las instituciones que usan esta herramienta de muestreo, sin embargo, hasta ahora no se contaba con una articulación formal ni un análisis preliminar de la información. Este es el resultado de la consolidación de información en la que participaron 20 instituciones y 45 investigadores. Los retos para el fototrampeo en Colombia están centrados en aumentar la cobertura geográfica y taxonómica, homogenizar y proponer nuevos diseños de muestreo y análisis, reducir los tiempos en el procesamiento de datos y buscar los mecanismos para incidir de manera efectiva en los tomadores de decisiones, quienes requieren de información útil y especializada para el diseño de estrategias de conservación y manejo."
 	#	buttonText  = "Get started!"
 
 
 	# Service section
 	[params.services]
-		headline = "Que beneficios presta la red?"
+		headline = "Qué beneficios presta la red?"
 
         [[params.services.list]]
             icon = "fa-binoculars"
@@ -88,7 +88,7 @@ googleAnalytics = ""
 
     # Aside section
 	[params.aside]
-		headline = "Donde hay datos y quien los tomó"
+		headline = "Dónde hay datos y quién los tomó"
 
 		[params.aside.button]
 			text = "Ver el Mapa de proyectos"
@@ -96,10 +96,10 @@ googleAnalytics = ""
 
 	# Contact section
 	[params.contact]
-		headline = "Contactenos"
+		headline = "Contáctenos"
 		description = "Haga parte de la red. Haga visibles sus localidades de muestreo. Envíenos la foto del mes!"
 		# phone = "123-456-6789"
-		email = "Angelica Diaz <adiaz@humboldt.org.co>; Diego J. Lizcano <diego.lizcano@tnc.org>"
+		email = "Angélica Diaz-Pulido <adiaz@humboldt.org.co>; Diego J. Lizcano <diego.lizcano@tnc.org>"
 		
 
 	 # Google Maps section
