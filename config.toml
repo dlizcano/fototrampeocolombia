@@ -43,7 +43,7 @@ googleAnalytics = "google-site-verification" content="CQ4GeRHIqcx_kSZQLuYZX_RWUo
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Red Colombiana de Fototrampeo"
-		subtitle   = "Una herramienta para conectar a quienes muestrean vertebrados terrestres en Colombia. Una iniciativa [IAvH](http://reporte.humboldt.org.co/biodiversidad/2016/cap1/104/)"
+		subtitle   = "Una herramienta para conectar a quienes muestrean vertebrados terrestres en Colombia. Una iniciativa [IAvH](http://reporte.humboldt.org.co/biodiversidad/2016/cap1/104/) y [TNC](https://www.mundotnc.org/nuestro-trabajo/donde-trabajamos/america/colombia/index.htm)"
 		buttonText = "Encuentra más detalles"
 
 
