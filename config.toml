@@ -104,7 +104,7 @@ googleAnalytics = "google-site-verification" content="CQ4GeRHIqcx_kSZQLuYZX_RWUo
 		
 
 	 # Google Maps section
-	 [params.location]
-	 	latitude  = "4.5968036"
-	 	longitude = "-74.0632081"
-	 	maps_api_key = ""
+	 #[params.location]
+	 	#latitude  = "4.5968036"
+	 	#longitude = "-74.0632081"
+	 	#maps_api_key = ""
