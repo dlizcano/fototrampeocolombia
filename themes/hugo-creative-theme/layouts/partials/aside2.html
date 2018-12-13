@@ -1,0 +1,19 @@
+{{ "<!-- ASIDE -->" | safeHTML }}
+<section id="aside2">
+<aside class="bg-primary">
+    <div class="container text-center">
+        <div class="call-to-action">
+            {{ with .Site.Params.aside2.headline }}<h2>{{ . }}</h2>{{ end }}
+            
+            
+            <img src="img/naira.png" class="center" alt="naira">
+            
+            
+            {{ if and .Site.Params.aside2.button.link .Site.Params.aside2.button.text }}
+                <a href="{{ .Site.Params.aside2.button.link }}" class="btn btn-default btn-xl wow tada">{{ .Site.Params.aside2.button.text }}</a>
+                
+            {{ end }}
+        </div>
+    </div>
+</aside>
+</section>

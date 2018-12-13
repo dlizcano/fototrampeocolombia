@@ -1,11 +1,11 @@
 {{ "<!-- ASIDE -->" | safeHTML }}
 <section id="aside">
-<aside class="bg-dark">
+<aside class="bg-light">
     <div class="container text-center">
         <div class="call-to-action">
             {{ with .Site.Params.aside.headline }}<h2>{{ . }}</h2>{{ end }}
             
-            <iframe width="100%" height="520" frameborder="0" src="https://d-lizcano.carto.com/builder/f931a97d-56f7-408a-a604-3944810afb45/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+            <iframe width="100%" height="600" frameborder="0" src="https://d-lizcano.carto.com/builder/f931a97d-56f7-408a-a604-3944810afb45/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
             
             {{ if and .Site.Params.aside.button.link .Site.Params.aside.button.text }}
                 <a href="{{ .Site.Params.aside.button.link }}" class="btn btn-default btn-xl wow tada">{{ .Site.Params.aside.button.text }}</a>
