@@ -61,7 +61,7 @@ googleAnalytics = "google-site-verification" content="CQ4GeRHIqcx_kSZQLuYZX_RWUo
 		headline = "Qué beneficios presta la red?"
 
         [[params.services.list]]
-            icon = "fa-binoculars"
+            icon = "fas fa-binoculars"
             title = "Conocer otras iniciativas"
             description = "Entérate del trabajo que se realiza y ayúdanos a construir comunidad."
 

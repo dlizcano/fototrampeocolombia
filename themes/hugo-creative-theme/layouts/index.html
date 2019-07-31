@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
     <head>
+        <script src="https://kit.fontawesome.com/6d6f658dfb.js"></script>
         {{ partial "head.html" . }}
-    </head>
+            </head>
     <body id="page-top">
         {{ if or .Site.Params.navigation.links.about .Site.Params.navigation.links.services .Site.Params.navigation.links.portfolio .Site.Params.navigation.links.contact }}
             {{ partial "nav.html" . }}
