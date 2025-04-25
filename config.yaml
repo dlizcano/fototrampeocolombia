@@ -1,0 +1,77 @@
+baseurl = "/"
+languageCode = "es-co"
+title = "Red Colombiana de Fototrampeo"
+theme = "hugo-creative-theme"
+googleAnalytics = "google-site-verification" content="As_PN292vEIkPRWjpIONnEkNX05fcEZFsDoJRCKY5MY"
+
+[params]
+	name = "Diego J. Lizcano"
+	description = "Red Colombiana de Fototrampeo, camera trap, trampa camara"
+	favicon = "favicon.ico"
+	[params.navigation]
+		brand = "Red Colombiana de Fototrampeo"
+		[params.navigation.links]
+			about     = "La Red"
+			services  = "Servicios"
+			portfolio = "Foto del Mes"
+			contact   = "Contacto"
+			aside     = "Mapa"
+			aside2    = "Naira"
+	[params.hero]
+		slogan     = "Red Colombiana de Fototrampeo"
+		subtitle   = "Una herramienta para conectar a quienes muestrean vertebrados terrestres en Colombia"
+		buttonText = "Encuentra más detalles"
+	[params.about]
+		headline    = "Qué hace la red?"
+		description = "En Colombia son varias las instituciones que usan esta herramienta de muestreo, sin embargo, hasta ahora no se contaba con una articulación formal ni un análisis preliminar de la información. Este es el resultado de la consolidación de información en la que participaron 20 instituciones y 45 investigadores. Los retos para el fototrampeo en Colombia están centrados en aumentar la cobertura geográfica y taxonómica, homogenizar y proponer nuevos diseños de muestreo y análisis, reducir los tiempos en el procesamiento de datos y buscar los mecanismos para incidir de manera efectiva en los tomadores de decisiones, quienes requieren de información útil y especializada para el diseño de estrategias de conservación y manejo."
+	[params.services]
+		headline = "Qué beneficios presta la red?"
+
+        [[params.services.list]]
+            icon = "fas fa-binoculars"
+            title = "Conocer otras iniciativas"
+            description = "Entérate del trabajo que se realiza y ayúdanos a construir comunidad."
+
+        [[params.services.list]]
+			icon = "fa-bar-chart"
+			title = "Análisis conjuntos"
+			description = "Úsenos como herramienta para encontrar los datos que necesita!"
+
+		[[params.services.list]]
+            icon = "fa-newspaper-o"
+            title = "Estar actualizado"
+            description = "Nosotros brindamos información y proporcionamos conocimientos."
+
+        [[params.services.list]]
+            icon = "fa-database"
+            title = "Visibilizar sus datos"
+            description = "Tienes que hacer tus datos disponibles en estos días!"
+
+	[params.portfolio.modal]
+        client = "Proyecto"
+        date = "Fecha"
+        category = "Genero"
+        buttonText = "Cerrar"
+
+	[params.aside]
+		headline = "Dónde hay datos y quién los tomó"
+
+		[params.aside.button]
+			text = "Ver el Mapa de proyectos"
+			link = "https://d-lizcano.carto.com/builder/f931a97d-56f7-408a-a604-3944810afb45/embed"
+
+
+	[params.aside2]
+		headline = "¿Ya conoces Naira?    Es un software para manejo y reconocimiento de imágenes"
+
+		[params.aside2.button]
+			text = "Pruébalo"
+			link = "http://sistemic.udea.edu.co/es/investigacion/proyectos/camaras-trampa/"
+
+
+	[params.contact]
+		headline = "Contáctenos"
+		description = "Haga parte de la red. Haga visibles sus localidades de muestreo. Envíenos la foto del mes!"
+		email = "Angélica Diaz-Pulido <adiaz@humboldt.org.co>; Diego J. Lizcano"
+		
+
