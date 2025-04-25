@@ -16,7 +16,6 @@ googleAnalytics = "google-site-verification" content="As_PN292vEIkPRWjpIONnEkNX0
 			portfolio = "Foto del Mes"
 			contact   = "Contacto"
 			aside     = "Mapa"
-			aside2    = "Naira"
 	[params.hero]
 		slogan     = "Red Colombiana de Fototrampeo"
 		subtitle   = "Una herramienta para conectar a quienes muestrean vertebrados terrestres en Colombia"
@@ -58,15 +57,8 @@ googleAnalytics = "google-site-verification" content="As_PN292vEIkPRWjpIONnEkNX0
 
 		[params.aside.button]
 			text = "Ver el Mapa de proyectos"
-			link = "https://d-lizcano.carto.com/builder/f931a97d-56f7-408a-a604-3944810afb45/embed"
+			link = "https://app.wildlifeinsights.org/initiatives/2000155/Red-Colombiana-de-Fototrampeo"
 
-
-	[params.aside2]
-		headline = "¿Ya conoces Naira?    Es un software para manejo y reconocimiento de imágenes"
-
-		[params.aside2.button]
-			text = "Pruébalo"
-			link = "http://sistemic.udea.edu.co/es/investigacion/proyectos/camaras-trampa/"
 
 
 	[params.contact]
