@@ -94,7 +94,7 @@ googleAnalytics = "google-site-verification" content="As_PN292vEIkPRWjpIONnEkNX0
 
 		[params.aside.button]
 			text = "Ver el Mapa de proyectos"
-			link = "https://d-lizcano.carto.com/builder/f931a97d-56f7-408a-a604-3944810afb45/embed"
+			link = "https://app.wildlifeinsights.org/initiatives/2000155/Red-Colombiana-de-Fototrampeo"
 
     # Aside section naira
 	[params.aside2]
@@ -109,7 +109,7 @@ googleAnalytics = "google-site-verification" content="As_PN292vEIkPRWjpIONnEkNX0
 		headline = "Contáctenos"
 		description = "Haga parte de la red. Haga visibles sus localidades de muestreo. Envíenos la foto del mes!"
 		# phone = "123-456-6789"
-		email = "Angélica Diaz-Pulido <adiaz@humboldt.org.co>; Diego J. Lizcano <diego.lizcano@tnc.org>"
+		email = "Angélica Diaz-Pulido <adiaz@humboldt.org.co>; Diego J. Lizcano <lizcanod@gmail.com>"
 		
 
 	 # Google Maps section
