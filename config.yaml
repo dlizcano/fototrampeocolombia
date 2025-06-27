@@ -25,7 +25,7 @@ params:
 
   about:
     headline: "Qué hace la red?"
-    description: "En Colombia son varias las instituciones que usan esta herramienta de muestreo, sin embargo, hasta ahora no se contaba con una articulación formal ni un análisis preliminar de la información. Este es el resultado de la consolidación de información en la que participaron 20 instituciones y 45 investigadores. Los retos para el fototrampeo en Colombia están centrados en aumentar la cobertura geográfica y taxonómica, homogenizar y proponer nuevos diseños de muestreo y análisis, reducir los tiempos en el procesamiento de datos y buscar los mecanismos para incidir de manera efectiva en los tomadores de decisiones, quienes requieren de información útil y especializada para el diseño de estrategias de conservación y manejo."
+    description: "Funciona como articulación formal para la consolidación de información en la que participaron 20 instituciones y 45 investigadores. Los retos para el fototrampeo en Colombia están centrados en aumentar la cobertura geográfica y taxonómica, homogenizar y proponer nuevos diseños de muestreo y análisis, reducir los tiempos en el procesamiento de datos y buscar los mecanismos para incidir de manera efectiva en los tomadores de decisiones, quienes requieren de información útil y especializada para el diseño de estrategias de conservación y manejo."
 
   services:
     headline: "Qué beneficios presta la red?"
@@ -57,6 +57,6 @@ params:
       link: "https://app.wildlifeinsights.org/initiatives/2000155/Red-Colombiana-de-Fototrampeo"
 
   contact:
-    headline: "Contáctenos"
+    headline: "Contáctenos u unase a la red"
     description: "Angélica Diaz-Pulido y Diego J. Lizcano"
     email: "adiaz@humboldt.org.co"
