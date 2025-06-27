@@ -53,10 +53,10 @@ params:
   aside:
     headline: "Dónde hay datos y quién los tomó"
     button:
-      text: "Ver el Mapa de proyectos"
+      text: "Ir a la iniciativa en WildlifeInsights"
       link: "https://app.wildlifeinsights.org/initiatives/2000155/Red-Colombiana-de-Fototrampeo"
 
   contact:
     headline: "Contáctenos"
-    description: "Haga parte de la red. Haga visibles sus localidades de muestreo. Envíenos la foto del mes!"
-    email: "adiaz@humboldt.org.co, Diego J. Lizcano"
+    description: "Angélica Diaz-Pulido y Diego J. Lizcano"
+    email: "adiaz@humboldt.org.co"
