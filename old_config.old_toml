@@ -1,4 +1,3 @@
-baseurl = "/"
 languageCode = "es-co"
 title = "Red Colombiana de Fototrampeo"
 theme = "hugo-creative-theme"
