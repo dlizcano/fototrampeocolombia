@@ -2,7 +2,7 @@ baseURL: "/"
 languageCode: "es-co"
 title: "Red Colombiana de Fototrampeo"
 theme: "hugo-creative-theme"
-googleAnalytics: "google-site-verification" content="As_PN292vEIkPRWjpIONnEkNX05fcEZFsDoJRCKY5MY"
+googleAnalytics: "As_PN292vEIkPRWjpIONnEkNX05fcEZFsDoJRCKY5MY"
 
 params:
   name: "Diego J. Lizcano"
