@@ -5,7 +5,8 @@
 ## pagina web de la red colombiana de foto trampeo.
 
 Made with hugo-creative-theme in R studio
-Code deployment in GitHub and site publishing in https://www.netlify.com/
+https://github.com/digitalcraftsman/hugo-creative-theme
+Code deployment in GitHub as config.yml and site rendered (with hugo) and published by https://www.netlify.com/
 
 Final web page in:
 https://redfototrampeo.netlify.com/
