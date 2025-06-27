@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://redfototrampeo.netlify.app/"
 languageCode = "es-co"
 title = "Red Colombiana de Fototrampeo"
 theme = "hugo-creative-theme"
