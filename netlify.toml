@@ -1,0 +1,9 @@
+# netlify.toml
+[build]
+  command = "hugo"
+  publish = "public"
+
+[context.production.environment]
+  HUGO_VERSION = "0.154.5" # set the Hugo version you want
+  # If you need the extended build (for Sass), also set:
+  # HUGO_EXTENDED = "true"
